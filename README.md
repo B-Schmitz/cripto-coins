@@ -7,7 +7,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/B-Schmitz/link-tree?style=for-the-badge)](https://github.com/B-Schmitz/cripto-coins/issues)
 [![GitHub forks](https://img.shields.io/github/forks/B-Schmitz/link-tree?style=for-the-badge)](https://github.com/B-Schmitz/cripto-coins/network)
 [![GitHub stars](https://img.shields.io/github/stars/B-Schmitz/link-tree?style=for-the-badge)](https://github.com/B-Schmitz/cripto-coins/stargazers)
-[![GitHub license](https://img.shields.io/github/license/B-Schmitz/link-tree?style=for-the-badge)](https://github.com/B-Schmitz/cripto-coins/blob/main/LICENSE.txt)
+[![GitHub license](https://img.shields.io/github/license/B-Schmitz/link-tree?style=for-the-badge)](https://github.com/B-Schmitz/cripto-coins/blob/main/LICENSE)
 
 
 
