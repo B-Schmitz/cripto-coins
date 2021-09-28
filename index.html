@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>XRP COIN</title>
+
+  <link href="main.css" rel="stylesheet">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" rel="stylesheet">
+  <link href="dist/toasty.min.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+  <div class="container">
+    <img class="xrp" src="assets/img/xrpcoin.png" alt="XRP" title="XRP Coin"/>
+    <h1 class="xrp-avg" id="xrp-avg"></h1>
+    <div class='values'>
+      <h4 class="xrp-high" id="xrp-high"></h4>
+    <h4 class="xrp-low" id="xrp-low"></h4>
+    </div>
+
+    <box-icon title='Atualizar dados' class='refresh' rotate='90' onclick="requestXRP()" color='white' name='refresh'></box-icon>
+  </div>
+
+
+  <script src="https://unpkg.com/boxicons@2.0.9/dist/boxicons.js"></script>
+  <script src="dist/toasty.min.js"></script>
+  <script src="main.js"></script>
+ 
+</body>
+
+</html>
